@@ -13,8 +13,8 @@ List Comprehensions
 
 Here we will create two classes
 1. Polygon class that can take num of edges and vertices as input and provide following properties:
-# edges
-# vertices
+edges
+vertices
 interior angle
 edge length
 apothem
